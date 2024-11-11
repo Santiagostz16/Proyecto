@@ -1,0 +1,8 @@
+123456::eduardo::eduardo@mail.com::Paciente
+567890::carlos::carlos@mail.com::Paciente
+654321::maria::maria@mail.com::Especialista::Cirugia
+123456::juan::juan@mail.com::Especialista::Oncologia
+789012::ana::ana@mail.com::Especialista::Dermatologia
+345678::luis::luis@mail.com::Especialista::Neumologia
+567890::laura::laura@mail.com::Especialista::Neumologia
+901234::sofia::sofia@mail.com::Director Medico
